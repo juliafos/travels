@@ -1,0 +1,178 @@
+@media (max-width: 1199.98px){
+ header{
+     padding: 70px 0;
+ }
+
+ .destination img{
+    width: 86%;
+ }
+
+ .sights img{
+     width: 99%;
+ }
+
+ .sights .col-lg-4{
+     margin-bottom: 30px;
+ }
+
+ .best-tours img{
+    width: 98%;
+ }
+
+.intro2{
+    padding-bottom: 70px;
+}
+
+.price{
+    width: 200px;
+    left: 18%;
+}
+
+.price h4{
+    font-size: 18px;
+}
+
+h2{
+    margin-bottom: 50px;
+}
+
+footer{
+    padding: 50px 0 30px;
+}
+
+
+}
+
+
+@media (max-width: 991.98px){
+h1 {
+    font-size: 40px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.intro{
+    padding: 25px 0 35px;
+}
+
+.intro2{
+    padding-bottom: 70px;
+}
+
+
+.destination{
+    padding: 50px 0;
+}
+
+.destination .col-md-6{
+    margin-bottom: 40px;
+}
+
+.sights{
+    padding: 50px 0;
+}
+
+.text-offer{
+    padding-top: 24px;
+}
+
+.text-offer a{
+    font-size: 14px;
+    margin-top: 12px;
+}
+
+.text-offer p{
+    font-size: 13px;
+    line-height: 18px;
+    width: 70%;
+}
+
+.text-offer h3{
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.docs, .best-tours, .reviews{
+    padding: 50px 0;
+}
+
+.price{
+    text-align: center;
+    width: 170px;
+    bottom: -25px;
+    left: 14%;
+}
+
+.price h4{
+    font-size: 15px;
+}
+
+
+
+
+}
+
+
+@media (max-width: 767.98px){
+.intro, .intro2{
+width: 500px;
+}
+ 
+.best-tours .row .col-sm-6:last-child{
+    padding-top: 40px;
+}
+
+.price{
+    left: 18%;
+}
+
+    
+}
+
+
+@media (max-width: 575.98px){
+.navbar-brand{
+    font-size: 22px;
+}
+.intro, .intro2{
+    width: 75%;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+header .btn{
+    font-size: 13px;
+}
+.docs p, ul{
+    font-size: 14px;
+}
+
+header{
+    padding: 50px 0 30px;
+}
+
+form h3{
+    padding-bottom: 20px;
+}
+
+.destination, .sights, .docs, .best-tours{
+    padding: 20px 0;
+}
+
+.intro2{
+    padding-bottom: 16px;
+}
+
+
+
+}
