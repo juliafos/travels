@@ -105,7 +105,7 @@ header .btn:hover{
     color: #d6def6;
 }
 
-.form input{
+.form-input{
 width: 100%;
 border: 0;
 border-bottom: 1px solid #c7c7c7;
@@ -359,4 +359,26 @@ footer .fa:hover{
 .copy{
     color: #040404;
     opacity: 0.6;
+}
+
+.error {
+    border-bottom: tomato 2px solid;
+}
+
+.btn-top{
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+    position: fixed;
+    bottom: 4%;
+    right: 4%;
+    display: none;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+button:focus{
+    outline: none !important;
 }
